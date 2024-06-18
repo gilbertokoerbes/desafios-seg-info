@@ -1,0 +1,8 @@
+Dados:
+
+CTR key: 36f18357be4dbd77f050515c73fcf9f2
+CTR Plaintext: 
+5468697320697320612073656e74656e636520746f20626520656e63727970746564207573696e672041455320616e6420435452206d6f64652e
+Qual o texto cifrado em hexadecimal (coloque o IV, em hexadecimal, na frente do texto cifrado)?
+
+This is a sentence to be encrypted using AES and CTR mode.
